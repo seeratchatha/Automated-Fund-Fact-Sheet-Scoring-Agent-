@@ -1,0 +1,38 @@
+{
+  "category_map": {
+    "HDFC": {
+      "HDFC LARGE CAP FUND": "Large Cap",
+      "HDFC FLEXI CAP FUND": "Flexi Cap",
+      "HDFC MULTI CAP FUND": "Multi Cap",
+      "HDFC LARGE AND MID CAP FUND": "Large & Mid Cap",
+      "HDFC MID CAP FUND": "Mid Cap",
+      "HDFC SMALL CAP FUND": "Small Cap",
+      "HDFC BALANCED ADVANTAGE FUND": "Balanced Advantage",
+      "HDFC DIVIDEND YIELD FUND": "Dividend Yield",
+      "HDFC VALUE FUND": "Value",
+      "HDFC EQUITY FUND": "Equity"
+    },
+    "AXIS": {
+      "AXIS LARGE CAP FUND": "Large Cap",
+      "AXIS LARGE & MID CAP FUND": "Large & Mid Cap",
+      "AXIS FLEXI CAP FUND": "Flexi Cap",
+      "AXIS MULTICAP FUND": "Multi Cap",
+      "AXIS MIDCAP FUND": "Mid Cap",
+      "AXIS SMALL CAP FUND": "Small Cap",
+      "AXIS VALUE FUND": "Value",
+      "AXIS BALANCED ADVANTAGE FUND": "Balanced Advantage",
+      "AXIS DIVIDEND YIELD FUND": "Dividend Yield",
+      "AXIS FOCUSED FUND": "Focused"
+    },
+    "ICICI": {
+      "ICICI PRUDENTIAL VALUE FUND": "Value",
+      "ICICI PRUDENTIAL FOCUSED EQUITY FUND": "Focused",
+      "ICICI PRUDENTIAL MIDCAP FUND": "Mid Cap",
+      "ICICI PRUDENTIAL SMALLCAP FUND": "Small Cap",
+      "ICICI PRUDENTIAL DIVIDEND YIELD EQUITY FUND": "Dividend Yield",
+      "ICICI PRUDENTIAL BALANCED ADVANTAGE FUND": "Balanced Advantage",
+      "ICICI PRUDENTIAL EQUITY FUND": "Equity",
+      "ICICI PRUDENTIAL PSU EQUITY FUND": "PSU"
+    }
+  }
+}
